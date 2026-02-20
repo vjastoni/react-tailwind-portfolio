@@ -30,8 +30,8 @@ const projects = [
       "A food ordering application built with React featuring dynamic UI rendering.",
     image: "/projects/react-meals.png",
     tags: ["HTML/CSS", "React"],
-    demoUrl: "https://ebook-website-starter-seven.vercel.app/",
-    githubUrl: "https://github.com/vjastoni/ebook-website-starter.git",
+    demoUrl: "https://vjastoni.github.io/food-order-app/",
+    githubUrl: "https://github.com/vjastoni/food-order-app.git",
   },
   {
     id: 4,
@@ -40,8 +40,8 @@ const projects = [
       "A simple CRUD movie application built with Node.js, Express, and EJS using JSON as a mock database.",
     image: "/projects/sflix-clone.png",
     tags: ["React", "Node.js", "Express"],
-    demoUrl: "https://ebook-website-starter-seven.vercel.app/",
-    githubUrl: "https://github.com/vjastoni/ebook-website-starter.git",
+    demoUrl: "https://sflix-clone.onrender.com/",
+    githubUrl: "https://github.com/vjastoni/sflix-clone.git",
   },
 
   {
