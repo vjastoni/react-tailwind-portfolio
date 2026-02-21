@@ -29,7 +29,7 @@ const projects = [
     description:
       "A food ordering application built with React featuring dynamic UI rendering.",
     image: "/projects/react-meals.png",
-    tags: ["HTML/CSS", "React"],
+    tags: ["HTML/CSS", "React", "Firebase"],
     demoUrl: "https://vjastoni.github.io/food-order-app/",
     githubUrl: "https://github.com/vjastoni/food-order-app.git",
   },
