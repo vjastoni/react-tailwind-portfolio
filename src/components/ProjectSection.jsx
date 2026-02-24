@@ -39,7 +39,7 @@ const projects = [
     description:
       "A simple CRUD movie application built with Node.js, Express, and EJS using JSON as a mock database.",
     image: "/projects/sflix-clone.png",
-    tags: ["React", "Node.js", "Express"],
+    tags: ["React", "Node.js", "Express", "Tailwind"],
     demoUrl: "https://sflix-clone.onrender.com/",
     githubUrl: "https://github.com/vjastoni/sflix-clone.git",
   },
