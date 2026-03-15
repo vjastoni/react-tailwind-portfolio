@@ -28,7 +28,7 @@ const projects = [
     description:
       "A Tic-Tac-Toe game built with React that demonstrates core concepts such as components, state management, and event handling.",
     image: "/projects/tic-tac-toe.png",
-    tags: ["HTML", "CSS", "JavaScript", "React"],
+    tags: ["HTML/CSS", "JavaScript", "React"],
     demoUrl: "https://tic-tac-toe-game-orpin-one.vercel.app/",
     githubUrl: "https://github.com/vjastoni/tic-tac-toe-game",
   },
@@ -52,9 +52,18 @@ const projects = [
     demoUrl: "https://sflix-clone.onrender.com/",
     githubUrl: "https://github.com/vjastoni/sflix-clone.git",
   },
-
   {
-    id: 6,
+    id: 5,
+    Title: "React Demo App",
+    description:
+      "A React fundamentals project demonstrating component-based architecture and state management.",
+    image: "/projects/react-demo.png",
+    tags: ["HTML/CSS", "React"],
+    demoUrl: "https://react-essential-eight.vercel.app/",
+    githubUrl: "https://github.com/vjastoni/react-essential",
+  },
+  {
+    id: 7,
     Title: "Basic Calculator",
     description:
       "A simple calculator application built with JavaScript functions for basic arithmetic operations.",
