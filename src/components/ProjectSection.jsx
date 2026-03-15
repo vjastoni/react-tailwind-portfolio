@@ -22,9 +22,18 @@ const projects = [
     demoUrl: "https://ebook-website-starter-seven.vercel.app/",
     githubUrl: "https://github.com/vjastoni/ebook-website-starter.git",
   },
-
   {
     id: 3,
+    title: "Tic-Tac-Toe Game",
+    description:
+      "A Tic-Tac-Toe game built with React that demonstrates core concepts such as components, state management, and event handling.",
+    image: "/projects/tic-tac-toe.png",
+    tags: ["HTML", "CSS", "JavaScript", "React"],
+    demoUrl: "https://tic-tac-toe-game-orpin-one.vercel.app/",
+    githubUrl: "https://github.com/vjastoni/tic-tac-toe-game",
+  },
+  {
+    id: 4,
     Title: "React Meals",
     description:
       "A food ordering application built with React featuring dynamic UI rendering.",
@@ -34,7 +43,7 @@ const projects = [
     githubUrl: "https://github.com/vjastoni/food-order-app.git",
   },
   {
-    id: 4,
+    id: 5,
     Title: "Sflix Clone",
     description:
       "A simple CRUD movie application built with Node.js, Express, and EJS using JSON as a mock database.",
@@ -45,7 +54,7 @@ const projects = [
   },
 
   {
-    id: 5,
+    id: 6,
     Title: "Basic Calculator",
     description:
       "A simple calculator application built with JavaScript functions for basic arithmetic operations.",
